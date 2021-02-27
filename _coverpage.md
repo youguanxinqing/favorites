@@ -4,4 +4,4 @@
 
 
 [GitHub](https://github.com/youguanxinqing/favorites)
-[Get Started](#quick-start)
+[Get Started](README.md)
