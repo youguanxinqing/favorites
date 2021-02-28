@@ -6,6 +6,7 @@
 - [150行Go实现高性能socks5代理](https://mp.weixin.qq.com/s/WjRRCU3xKvDRKgru9dZ7hg)
 - [用 Go 创建一个简易负载均衡器](https://mp.weixin.qq.com/s/pe0CQa3tdrUmC86OSRBNeg)
 - [7天用Go从零实现Web框架Gee教程](https://geektutu.com/post/gee.html)
+- [如何实现 HTTP 断点续传多线程下载？](https://mp.weixin.qq.com/s/dt5emM2IsJ3DKmL502Zm8A)
 
 redis 系列：
 - [实现一个 Redis(1) 之编写 TCP 服务器](https://mp.weixin.qq.com/s/ZcH-iLVEdGlfweviMbJUjg)
