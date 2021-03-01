@@ -14,6 +14,11 @@
 - [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 - [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
 
+[递归反转链表：如何拆解复杂问题](https://mp.weixin.qq.com/s/5wz_YJ3lTkDH3nWfVDi5SA), [递归思维：k 个一组反转链表](https://mp.weixin.qq.com/s/A-dQ9spsP_Iu1Y4iCRP9nA)
+- [0206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [0092. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+- [0025. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+
 [一致性哈希算法](https://mp.weixin.qq.com/s/eAQ1_Lsmd57DJWMFH60cgQ) -> [Go实现](https://mp.weixin.qq.com/s/Kz03Z_s26WyuOh7-7mYTTw)
 
 ## 数据结构
