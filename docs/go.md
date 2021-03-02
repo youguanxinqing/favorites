@@ -4,7 +4,9 @@
 
 网络系列：
 - [150行Go实现高性能socks5代理](https://mp.weixin.qq.com/s/WjRRCU3xKvDRKgru9dZ7hg)
-- [用 Go 创建一个简易负载均衡器](https://mp.weixin.qq.com/s/pe0CQa3tdrUmC86OSRBNeg)
+- [用 Go 创建一个简易负载均衡器](https://mp.weixin.qq.com/s/pe0CQa3tdrUmC86OSRBNeg), [使用Go开发一个简单反向代理服务](https://lihaoquan.me/2018/4/24/go-reverse-proxy.html)
+  - [平滑的基于权重的轮询算法](https://colobu.com/2016/12/04/smooth-weighted-round-robin-algorithm/)
+  - [nginx平滑的基于权重轮询算法分析](https://tenfy.cn/2018/11/12/smooth-weighted-round-robin/)
 - [7天用Go从零实现Web框架Gee教程](https://geektutu.com/post/gee.html)
 - [如何实现 HTTP 断点续传多线程下载？](https://mp.weixin.qq.com/s/dt5emM2IsJ3DKmL502Zm8A)
 
