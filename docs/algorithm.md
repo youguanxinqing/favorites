@@ -19,6 +19,12 @@
 - [0092. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 - [0025. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
+[「单调队列」数据结构解决滑动窗口问题](https://mp.weixin.qq.com/s/-ZQ1G4JuZCyYSCj1A3ApFw)
+- [0239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+
+[单调栈解题模板秒杀三道算法题](https://mp.weixin.qq.com/s/KYfjBejo84AmajnPZNs5nA)
+- [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
+
 [一致性哈希算法](https://mp.weixin.qq.com/s/eAQ1_Lsmd57DJWMFH60cgQ) -> [Go实现](https://mp.weixin.qq.com/s/Kz03Z_s26WyuOh7-7mYTTw)
 
 ## 数据结构
