@@ -25,6 +25,13 @@
 [单调栈解题模板秒杀三道算法题](https://mp.weixin.qq.com/s/KYfjBejo84AmajnPZNs5nA)
 - [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
 
+[二叉树(1)](https://mp.weixin.qq.com/s/izZ5uiWzTagagJec6Y7RvQ), [二叉树(2)](https://mp.weixin.qq.com/s/OlpaDhPDTJlQ5MJ8tsARlA), [二叉树(3)](https://mp.weixin.qq.com/s/LJbpo49qppIeRs-FbgjsSQ)
+- [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+- [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+
+[搜索二叉树(1)](https://mp.weixin.qq.com/s/ioyqagZLYrvdlZyOMDjrPw), [搜索二叉树(2)](https://mp.weixin.qq.com/s/SuGAvV9zOi4viaeyjWhzDw), [搜索二叉树(3)](https://mp.weixin.qq.com/s/kcwz2lyRxxOsC3n11qdVSw)
+
 [一致性哈希算法](https://mp.weixin.qq.com/s/eAQ1_Lsmd57DJWMFH60cgQ) -> [Go实现](https://mp.weixin.qq.com/s/Kz03Z_s26WyuOh7-7mYTTw)
 
 ## 数据结构
