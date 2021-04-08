@@ -1,5 +1,9 @@
 # Golang
 
+## 基础
+
+- [go build -ldflags "-X path/to/package.{Key}={Value}"](https://mp.weixin.qq.com/s/nd0ynZfRbgIZktG5TkfWbg) 
+
 ## 项目
 
 网络系列：
